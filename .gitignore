@@ -1,0 +1,27 @@
+# Thư mục cần loại trừ
+/vendor/
+/node_modules/
+/uploads/
+/storage/
+.env
+*.log
+*.sql
+*.zip
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# XAMPP
+*.bak
+*.tmp
+*.swp
+
+# Git
+.gitignore
